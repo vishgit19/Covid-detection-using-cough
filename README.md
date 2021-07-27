@@ -1,4 +1,4 @@
-##Covid-detection-using-cough
+Covid-detection-using-cough
 
 This repository contains the ipynb file where the model to predict whether a person is having covid or not is predicted using his cough,vowel,breathing sounds. The data was taken from 
 Coswara Dataset (https://github.com/iiscleap/Coswara-Data) which is developed by IISc. The data contains recordings of breathing, coughing, saying vowels etc. I use this data and the librosa
